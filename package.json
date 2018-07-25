@@ -1,0 +1,30 @@
+{
+  "name": "webpack-alioss-uploader",
+  "version": "1.0.0",
+  "description": "webpack plugin for aliyun oss upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fred-feng/webpack-alioss-uploader.git"
+  },
+  "keywords": [
+    "webpack",
+    "aliyun",
+    "oss",
+    "upload"
+  ],
+  "author": "fred.feng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fred-feng/webpack-alioss-uploader/issues"
+  },
+  "homepage": "https://github.com/fred-feng/webpack-alioss-uploader#readme",
+  "dependencies": {
+    "ali-oss": "^6.0.1",
+    "co": "^4.6.0",
+    "fs-extra": "^7.0.0"
+  }
+}
