@@ -1,6 +1,6 @@
 {
   "name": "webpack-alioss-uploader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "webpack plugin for aliyun oss upload",
   "main": "index.js",
   "scripts": {
